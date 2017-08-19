@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 //var title=$("#searchTerm").val();
 var title="trump";
 var yearStart=$("#startYear").val();
@@ -31,9 +31,6 @@ $.ajax({
 });
 
 
-=======
-// 242f8eebfd46494b956b11700c9ca617
 
 
-console.log($.param({hello: "world"}))
->>>>>>> 9f892a0a9dacc176b30c6b7fc74db8f7a028694b
+
